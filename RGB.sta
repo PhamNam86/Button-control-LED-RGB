@@ -1,0 +1,46 @@
+
+ROM used: 89 (1%)
+          89 (1%) including unused fragments
+
+          0 Average locations per line
+          4 Average locations per statement
+
+RAM used: 6 (2%) at main() level
+          6 (2%) worst case
+
+Stack used: 0 worst case (out of 8 total available)
+
+Lines Stmts  %   Files
+----- ----- ---  -----
+   40    22 100  RGB.c
+  411     0   0  C:\Program Files (x86)\PICC\devices\16F887.h
+  212     0   0  C:\Program Files (x86)\PICC\drivers\luutinh.h
+----- -----
+  663    22 Total
+
+Page ROM  %  RAM   Vol Diff  Functions:
+---- --- --- ---   --- ----  ----------
+0     85  96   0   508  4.2  main
+
+Program metrics:
+    Functions               1
+    Statements              22
+    Comments                112
+    Volume (V)              508
+    Difficilty (D)          4.2
+    Effort to implement (E) 2154
+    Time to implement (T)   2 minutes
+    Est Delivered Bugs (B)  0
+    Cyclomatic Complexity   7
+    Maintainability (MI)    55
+
+ Segment     Used  Free
+-----------  ----  ----
+00000-00003     4  0  
+00004-007FF    85  1959  
+00800-00FFF     0  2048  
+01000-017FF     0  2048  
+01800-01FFF     0  2048  
+
+
+
